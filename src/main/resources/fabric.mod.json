@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "astral-roots",
+	"id": "astralroots",
 	"version": "${version}",
 	"name": "Astral Roots",
 	"description": "A mod that adds various astronomy, geology, and botany items.",
@@ -12,7 +12,7 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "MIT",
-	"icon": "assets/astral-roots/icon.png",
+	"icon": "assets/astralroots/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
@@ -26,7 +26,7 @@
 		]
 	},
 	"mixins": [
-		"astral-roots.mixins.json"
+		"astralroots.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.16.5",
